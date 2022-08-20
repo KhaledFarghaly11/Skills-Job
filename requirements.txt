@@ -1,0 +1,8 @@
+certifi==2022.6.15
+flask==2.2.1
+notebook==6.4.12
+pip-chill==1.0.1
+seaborn==0.11.2
+sklearn==0.0
+wincertstore==0.2
+xgboost==1.6.1
